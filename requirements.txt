@@ -1,0 +1,20 @@
+streamlit
+requests
+python-dotenv
+langchain
+langchain-community
+speechrecognition
+reportlab
+pandas
+plotly
+openai
+
+(Optional/Advanced)
+If you're using GPU features or Ollama locally:
+ollama  # (Only if using local model via Ollama)
+If you are using Plotly offline:
+kaleido  # Needed to export Plotly charts as images (optional)
+
+Installation Command:
+Once you've added the file, install everything via:
+pip install -r requirements.txt

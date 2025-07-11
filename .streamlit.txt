@@ -1,0 +1,6 @@
+HUGGINGFACEHUB_API_TOKEN = "add your API key here"
+REPLICATE_API_TOKEN ="add your API key here"
+TOGETHER_API_KEY = "add your API key here"
+COHERE_API_KEY ="add your API key here"
+
+

@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+*.env
+
+# Streamlit secrets and config
+.streamlit/secrets.toml
+.streamlit/config.toml
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output files
+*.pdf
+*.txt
+*.csv
+*.xlsx
+*.json
+
+# Temporary and backup files
+*.tmp
+*.log
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
+
+# Ollama local models (if any)
+ollama_models/
+*.bin
+*.model
